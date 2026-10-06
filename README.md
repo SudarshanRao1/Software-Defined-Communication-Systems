@@ -8,23 +8,6 @@ Software-Defined Communication Systems combine communication theory with program
 
 This repository contains 10 laboratory experiments, progressing from fundamental communication concepts toward more advanced software-defined communication techniques.
 
-📂 Repository Structure
-Software-Defined-Communication-Systems/
-│
-├── Lab_1/
-├── Lab_2/
-├── Lab_3/
-├── Lab_4/
-├── Lab_5/
-├── Lab_6/
-├── Lab_7/
-├── Lab_8/
-├── Lab_9/
-└── Lab_10/
-
-
-Each Lab_* directory contains the implementation, code, and/or supporting files associated with that particular experiment.
-
 🎯 Objectives
 
 The main objectives of these laboratory experiments are to:
